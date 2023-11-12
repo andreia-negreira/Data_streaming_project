@@ -50,13 +50,12 @@ The project is designed with the following components:
 
 ### Tutorial
 
-- **Author**: [Yusuf Ganiyu]
-- **YouTube Channel**: [CodeWithYu]
-- **Tutorial Title**: [Realtime Data Streaming | End To End Data Engineering Project]
-- **Link to Tutorial**: [https://www.youtube.com/watch?v=GqAcTrqKcrY]
+- **Author**: ![Yusuf Ganiyu](https://www.youtube.com/@CodeWithYu)
+- **YouTube Channel**: ![CodeWithYu](https://www.youtube.com/@CodeWithYu)
+- **Tutorial Title**: ![Realtime Data Streaming | End To End Data Engineering Project](https://www.youtube.com/watch?v=GqAcTrqKcrY)
 
 ### Reference Repository
 
-- **Repository**: [https://github.com/andreia-negreira/Data_streaming_project]
-- **Original Author**: [https://github.com/airscholar]
-- **Link to Original Repository**: [https://github.com/airscholar/e2e-data-engineering/tree/main]
+- **Repository**: ![Data_streaming_project](https://github.com/andreia-negreira/Data_streaming_project)
+- **Original Author**: ![airscholar](https://github.com/airscholar)
+- **Link to Original Repository**: ![e2e-data-engineering](https://github.com/airscholar/e2e-data-engineering/tree/main)
